@@ -1,0 +1,77 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #42B839;
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #077508;
+	margin: 3px 0px 0px;
+	white-space: nowrap;
+}
+.logo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #73CC6C;
+	margin: 0px;
+	white-space: nowrap;
+}
+.menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #595959;
+	white-space: nowrap;
+}
+a {
+	text-decoration: none;
+	color: #0D710D;
+}
+a:hover {
+	text-decoration: underline;
+}
+.bgrx {
+	background-repeat: repeat-x;
+}
+.cpr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #DBF9DB;
+}
+.lblock {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #066506;
+}
+.bgrxbtm {
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+p {
+	margin: 0px 0px 12px;
+	text-align: justify;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #076007;
+	margin: 0px 0px 12px;
+	font-weight: lighter;
+}
+.menubottom {
+	color: #343434;
+}
+.lmenu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0D710D;
+	text-transform: uppercase;
+}
